@@ -1,0 +1,12 @@
+*.pkl
+*.pth
+*.log
+*.pot
+*.pyc
+*.csv
+.idea/
+.vscode/
+__pycache__/
+.ipynb_checkpoints/
+wandb/
+lightning_logs/
